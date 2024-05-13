@@ -39,10 +39,10 @@ To view this portfolio:
 This project is licensed under the License(LICENSE).
 
 ## Author
-[Your Name]
+Joshua
 
 ## Contact
-- Email: [Your Email]
+- Email: millboylebohang@gmail.com
 - LinkedIn: [Your LinkedIn Profile]
 - Twitter: [Your Twitter Profile]
 - Portfolio: [Link to Your Portfolio Website]
