@@ -43,6 +43,6 @@ Joshua Chikasha
 
 ## Contact
 - Email: millboylebohang@gmail.com
-- LinkedIn: [Your LinkedIn Profile]
+- LinkedIn: [[Your LinkedIn Profile](https://www.linkedin.com/in/joshua-chikasha/)]
 - Twitter: [Your Twitter Profile]
 - Portfolio: [Link to Your Portfolio Website]
