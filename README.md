@@ -1,4 +1,4 @@
-# Portfolio README
+# My Portfolio README
 
 ## Introduction
 This portfolio showcases my projects, skills, and contact information. It's designed to provide an overview of my expertise and experience in web development.
@@ -39,7 +39,7 @@ To view this portfolio:
 This project is licensed under the License(LICENSE).
 
 ## Author
-Joshua
+Joshua Chikasha
 
 ## Contact
 - Email: millboylebohang@gmail.com
